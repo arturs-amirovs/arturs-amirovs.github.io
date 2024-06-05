@@ -46736,7 +46736,7 @@ agF(a,b){var s=0,r=A.S(t.y),q,p,o,n,m,l
 var $async$yC=A.T(function(c,d){if(c===1)return A.P(d,r)
 while(true)switch(s){case 0:o=A.i3("https",u.N,"/login",null)
 n=t.N
-m=A.ao(["Access-Control-Allow-Origin","*","Content-Type","application/json","Accept","*/*"],n,n)
+m=A.ao(["Access-Control-Allow-Origin","https://arturs-amirovs.github.io","Content-Type","application/json","Accept","*/*"],n,n)
 s=3
 return A.V(A.p1(o,B.L.ec(A.ao(["username",a,"password",b],n,n)),m),$async$yC)
 case 3:l=d
