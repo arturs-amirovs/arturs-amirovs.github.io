@@ -47589,8 +47589,9 @@ o=A.dB(p,!1,t.o)
 n=q.a
 s=2
 return A.U(o.pt(new A.hk(null,n.d.a.a,"TODO: description",null,null,null,null,n.e,null,0)),$async$$0)
-case 2:o.mt()
-A.ee(p).eq()
+case 2:s=3
+return A.U(o.mt(),$async$$0)
+case 3:A.ee(p).eq()
 return A.Q(null,r)}})
 return A.R($async$$0,r)},
 $S:16}
